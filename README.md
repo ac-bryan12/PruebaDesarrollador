@@ -1,6 +1,5 @@
-# Nombre del Proyecto
+# Postulación Desarrollador de Software
 
-Descripción concisa del propósito y la funcionalidad del proyecto.
 
 ## Contenido
 1.	Repositorio: con las entidades requeridas y todo estructurado
