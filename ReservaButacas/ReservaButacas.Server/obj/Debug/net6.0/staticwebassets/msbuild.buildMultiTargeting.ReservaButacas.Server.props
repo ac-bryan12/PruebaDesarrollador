@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ReservaButacas.Server.props" />
+</Project>

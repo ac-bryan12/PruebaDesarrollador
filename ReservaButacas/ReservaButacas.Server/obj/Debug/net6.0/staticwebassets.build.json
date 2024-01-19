@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "8+gWTO4v4rEeXLt3SY8Pc6JOQA4E25n4/oQw9fYiyk8=",
+  "Source": "ReservaButacas.Server",
+  "BasePath": "_content/ReservaButacas.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\PRUEBAS\\PruebaReservaButacas\\ReservaButacas\\reservabutacas.client\\reservabutacas.client.esproj",
+      "Version": 2,
+      "Source": "reservabutacas.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

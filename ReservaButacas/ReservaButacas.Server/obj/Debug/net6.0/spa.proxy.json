@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\PRUEBAS\\PruebaReservaButacas\\ReservaButacas\\ReservaButacas.Server\\..\\reservabutacas.client",
+"MaxTimeoutInSeconds": "120"
+}
+}
